@@ -40,7 +40,7 @@ nav{
     padding: 0px 24px;
     display: flex;
     background-color: #BAD7FA;
-    height: 80px;
+    height: 48px;
     /* max-width: 1200px; */
     margin: 0 auto;
 }
@@ -63,8 +63,13 @@ nav{
     margin-left: 48px;
 }
 
+.logo__title{
+    font-size: 32px;
+}
+
 .logo-img{
     width: 56px;
+    margin-top: 8px;
 }
 
 .acc-img{
