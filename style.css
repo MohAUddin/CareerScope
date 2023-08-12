@@ -9,6 +9,10 @@
 
 }
 
+body{
+    margin-bottom: 100px;
+}
+
 .html{
     scroll-behavior: smooth;
 }
@@ -89,15 +93,33 @@ nav{
 }
 
 
-/* 
+
+
+/* -----------------
+
+Blobs 
+
+--------------------*/
+
+
+.background-blr{
+    z-index: -1;
+    position: absolute;
+}
+
+
+
+
+
+/* ----------------------
 
 HERO 
 
-*/
+---------------------*/
 
-#hero{
+/* #hero{
     
-}
+} */
 
 .main__container{
     display: flex;
