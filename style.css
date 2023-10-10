@@ -156,6 +156,14 @@ HERO
     border-radius: 50px;
 }
 
+.search-bar__text{
+    width: 90%;
+    height: 100%;
+    border: none;
+    border-radius: 50px;
+}
+
+
 .moving-text{
     margin-left: 12px;
     font-size: 28px;
@@ -166,7 +174,7 @@ HERO
     margin-right: 20px;
     border: none;
     color: #FDFFFE;
-    background-color: #114B4F;
+    background-color: #0B68F2;
     width: 56px;
     height: 48px;
     border-radius: 30px;
