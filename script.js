@@ -80,15 +80,5 @@ let careers = [
     "Zamboni Operator",
     "Zither Maker",
     "Zoologist"
-  ]
+]
 
-//   function searchCareers () {
-//     let searchCriteria = prompt("what career do you want to do")
-//     console.log(searchCriteria)
-//   }
-
-//   searchCareers()
-
-for (item in careers) {
-    console.log(careers[item])
-}
