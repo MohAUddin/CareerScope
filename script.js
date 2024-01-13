@@ -84,6 +84,6 @@ let careers = [
 
 function reportSearchText() {
   let three = 3
-  let searchText = document.getElementsByID('search_text')
+  let searchText = document.getElementById('search_text').value
   console.log(searchText)
 }
