@@ -82,3 +82,8 @@ let careers = [
     "Zoologist"
 ]
 
+function reportSearchText() {
+  let three = 3
+  let searchText = document.getElementsByID('search_text')
+  console.log(searchText)
+}
